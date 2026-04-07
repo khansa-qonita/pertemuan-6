@@ -37,9 +37,6 @@ int main()
     cout << endl;
 
     cout << "Input array menggunakan For" << endl;
-
-
+    for  (int i = 0, i <=4 , i++)
     
-
-
 }
