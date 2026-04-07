@@ -15,8 +15,9 @@ int main()
     //mengisi data 
     cout << "Isikan data nama : ";
     cin >> mhs.nama;
-    
-
+    cout << "Isikan data alamat : ";
+    cin >> mhs.alamat;
+   
 }
 
 
