@@ -12,6 +12,7 @@ int main()
     cout << "isi data kedua :" << dataku[1] <<endl;
     //mengisi array
     dataku[1] = 200;
+    cout << "isi data kedua setelah diubah : " << dataku[1] <<endl;
     
 
 
