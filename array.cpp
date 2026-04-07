@@ -34,7 +34,9 @@ int main()
     cout << "data ketiga = " << datamu[2] <<endl;
     cout << "data keempat = " << datamu[3] <<endl;
     cout << "data kelima = " << datamu[4] <<endl;
-    
+    cout << endl;
+
+    cout << "Input array menggunakan For" << endl;
 
 
     
