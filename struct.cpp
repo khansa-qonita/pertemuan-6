@@ -8,5 +8,16 @@ struct orang
     int umur;
 };
 
+int main()
+{
+    //deklarasi variabel struct 
+    Orang mhs;
+    //mengisi data 
+    cout << "Isikan data nama : ";
+    cin >> mhs.nama;
+    
+
+}
+
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
